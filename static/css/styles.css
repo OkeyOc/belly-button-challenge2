@@ -1,0 +1,33 @@
+#custom-bg {
+    /* background-image: url('https://img.freepik.com/free-photo/representation-microorganisms-concept_23-2150071967.jpg?w=740&t=st=1705450327~exp=1705450927~hmac=7feefa9acbd530641e2aae0b05e99f44c186e57be60da30aaea8453fc9acf4dd'); */
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #b19468 ;
+}
+
+#text {
+    font-weight: bold;
+    font-size: large;
+}
+
+/* #jumbotron-container {
+    background-image: url('https://img.freepik.com/free-photo/representation-microorganisms-concept_23-2150071967.jpg?w=740&t=st=1705450327~exp=1705450927~hmac=7feefa9acbd530641e2aae0b05e99f44c186e57be60da30aaea8453fc9acf4dd') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:white; 
+} */
+
+
+.col-md-12.jumbotron.text-center {
+    background-image: url('https://img.freepik.com/free-photo/representation-microorganisms-concept_23-2150071967.jpg?w=740&t=st=1705450327~exp=1705450927~hmac=7feefa9acbd530641e2aae0b05e99f44c186e57be60da30aaea8453fc9acf4dd');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:white 
+}  
+
